@@ -1,5 +1,5 @@
 <h2><img src="https://slackmojis.com/emojis/2453-alert/download" width="30"/> I'm Ana Escobar! </h2> 
-<img align='right' src="https://media0.giphy.com/media/mCRJDo24UvJMA/200.webp?cid=ecf05e47id263tghhdz9ctoybkhr5k5lqs47pu1cywsu23sj&rid=200.webp&ct=g" width="300">
+<img align='right' src="https://media0.giphy.com/media/mCRJDo24UvJMA/200.webp?cid=ecf05e47id263tghhdz9ctoybkhr5k5lqs47pu1cywsu23sj&rid=200.webp&ct=g" width="230">
 <p><em>Software Engineer and Data Engineer
 </a>
 </em></p>
